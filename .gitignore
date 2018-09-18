@@ -1,0 +1,11 @@
+#ide
+*.iml
+.idea
+.idea/*
+data
+.project
+.classpath
+.settings/
+.springBeans
+
+target/*
